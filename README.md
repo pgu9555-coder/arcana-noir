@@ -4,7 +4,7 @@
 
 [开始体验 →](https://taluo.space/)
 
-[![ARCANA NOIR 实际抽牌界面：黑金牌桌上的塔罗牌](screenshots/draw.png)](https://taluo.space/)
+[![ARCANA NOIR 抽牌实录：三张牌从牌扇依次落入牌位](screenshots/draw-demo.gif)](https://taluo.space/)
 
 ## 抽牌，是体验的中心
 
